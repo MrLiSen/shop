@@ -1,0 +1,12 @@
+/target
+/shop-parent.iml
+/.idea/
+/shop-cache/target/
+/shop-cache/shop-cache.iml
+/shop-www/shop-dao/target/
+/shop-www/shop-dao/shop-dao.iml
+/shop-www/shop-service/target/
+/shop-www/shop-service/shop-service.iml
+/shop-www/shop-web/target/
+/shop-www/shop-web/shop-web.iml
+
